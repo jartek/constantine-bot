@@ -1,0 +1,19 @@
+{
+  "name": "constantine-bot",
+  "version": "1.0.0",
+  "description": "A slack bot that splits users in a channel into teams",
+  "main": "index.js",
+  "author": "jartek",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "randomcolor": "^0.5.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
